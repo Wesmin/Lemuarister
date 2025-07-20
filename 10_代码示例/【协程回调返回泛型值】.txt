@@ -1,0 +1,18 @@
+ public void ExampleMethod()
+ {
+     bool bo = true;
+     CoroutineReturn(bo, e =>
+     {
+         string str = "协程回调返回泛型值" + e.ToString() ;
+         Debug.Log(str);
+     });
+ }
+ public void CoroutineReturn<T>(T value, Action<T> callback)
+ {
+     IEnumerator Coroutine()
+     {
+         yield return new WaitForSeconds(3f);
+         callback?.Invoke(value);
+     }
+     StartCoroutine(Coroutine());
+ }
