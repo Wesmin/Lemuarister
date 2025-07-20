@@ -1,0 +1,7 @@
+ZStylusBeam
+
+ private void Start()
+ {
+     this._lineRenderer.enabled = false;
+     this._lineRenderer.gameObject.SetActive(false);
+ }

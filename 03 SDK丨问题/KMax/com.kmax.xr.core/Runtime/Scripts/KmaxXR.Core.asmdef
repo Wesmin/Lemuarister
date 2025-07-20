@@ -1,0 +1,16 @@
+{
+    "name": "KmaxXR.Core",
+    "rootNamespace": "KmaxXR",
+    "references": [
+        "GUID:4a164e0b9caee4549bbd90d2076c2c97"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

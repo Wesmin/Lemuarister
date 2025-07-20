@@ -1,0 +1,5 @@
+//在开始时调用该方法，只用调一次
+if (Application.platform == RuntimePlatform.Android)
+{
+    XRSettings.eyeTextureResolutionScale = 2f;
+}

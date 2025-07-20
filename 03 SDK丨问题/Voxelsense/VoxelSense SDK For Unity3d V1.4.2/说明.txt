@@ -1,0 +1,5 @@
+1.使用该版本sdk，请将目录中VoxelConfig.ini文件拷贝到工程的Assets文件夹同级目录下；
+2.打包出来后，请将目录中VoxelConfig.ini文件拷贝到exe运行文件文件夹同级目录下；
+3.VoxelConfig.ini为项目配置文件，具体可以打开查看注释；
+4.请根据开发机器显示设备的尺寸大小来修改VoxelConfig.ini文件对应配置项
+另外，请使用unity2018或者2019两个大版本的最新版本开发；

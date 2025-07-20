@@ -1,0 +1,19 @@
+{
+    "name": "KmaxXR.Core.Editor",
+    "rootNamespace": "KmaxXR",
+    "references": [
+        "GUID:978d8d6c889d16348a5d8b9f9af0e4b9",
+        "GUID:4a164e0b9caee4549bbd90d2076c2c97"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
