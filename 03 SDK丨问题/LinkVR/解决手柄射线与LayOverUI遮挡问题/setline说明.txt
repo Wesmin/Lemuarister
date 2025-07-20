@@ -1,0 +1,3 @@
+setline.cs
+用于解决linkvr射线被ui遮挡问题（手柄被遮挡直接把相关材质球改成custem/shader1 即可
+挂载到左右手上即可
